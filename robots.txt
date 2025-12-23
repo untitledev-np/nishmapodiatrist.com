@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://nishmapodiatrist.es/sitemap.xml
+
+Disallow: /api/
+Disallow: /admin/
